@@ -1,0 +1,5 @@
+klaviyo:
+  api:
+    base-url: https://a.klaviyo.com/api
+    api-key: ${KLAVIYO_API_KEY}
+    revision: 2024-10-15
